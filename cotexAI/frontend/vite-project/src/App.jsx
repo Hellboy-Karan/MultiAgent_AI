@@ -7,7 +7,7 @@ const App = () => {
   const googleSignIn = async () => {
     // Implement Google Sign-In logic here
     const dataResponse = await signInWithPopup(auth, googleProvider);
-    console.log(dataResponse);
+    console.log(dataResponse); 
   }
 
   return (
