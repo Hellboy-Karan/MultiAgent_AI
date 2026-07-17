@@ -2,3 +2,7 @@ MongoDB Password - Agent_Ai
 
 sk5485633_db_user
 CQbuJEJCGpz4sjFk
+
+
+npm install firebase
+npm install firebase-admin
