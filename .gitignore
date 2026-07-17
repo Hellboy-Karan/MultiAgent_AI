@@ -1,8 +1,20 @@
 node_modules/
-dist/
-build/
 .env
 .env.*
 !.env.example
 *.log
 .DS_Store
+
+# Firebase Admin SDK key
+cotexAI/backend/services/serviceAccountKey-firebase-admin.json
+
+cotexAI/backend/gateway/.env
+cotexAI/backend/services/auth/.env
+cotexAI/frontend/vite-project/.env
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
